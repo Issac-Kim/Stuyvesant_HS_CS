@@ -1,0 +1,9 @@
+[submodule "MKS21X"]
+	path = MKS21X
+	url = https://github.com/Issac-Kim/MKS21X.git
+[submodule "ComfortablePotatoes"]
+	path = ComfortablePotatoes
+	url = https://github.com/vliok/ComfortablePotatoes.git
+[submodule "mapreduce"]
+	path = mapreduce
+	url = https://github.com/Issac-Kim/mapreduce.git
